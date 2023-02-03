@@ -1,6 +1,6 @@
 # Kalkulator-Sederhana-Methode-OOP
 Untuk Memenuhi Tugas MK OOP Universitas Baturaja
-![image](https://user-images.githubusercontent.com/17256521/216539352-a1100a88-0714-4ddb-970b-8ca4a3168b4d.png)
+![image](https://user-images.githubusercontent.com/17256521/216604018-38758147-0971-48ab-90a5-a484cdea09b5.png)
 
 Kode di atas adalah contoh implementasi dari konsep pemrograman berorientasi objek (OOP) dalam membuat sebuah kalkulator sederhana.
 
