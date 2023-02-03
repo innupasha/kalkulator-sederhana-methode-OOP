@@ -20,4 +20,4 @@ Kemudian, kode PHP memeriksa apakah request yang diterima adalah POST dan jika i
 
 Hasil dari operasi yang dipilih akan ditampilkan dengan mencetak string "Hasil: " diikuti dengan nilai dari operasi tersebut.
 
-Untuk Hasilnya bisa dilihat di https://informatika-unbara.my.id
+Untuk Hasilnya bisa dilihat di https://informatika-unbara.my.id/kalkulator-oop
