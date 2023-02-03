@@ -1,4 +1,4 @@
-# kalkulator-sederhana-methode-OOP
+# Kalkulator-Sederhana-Methode-OOP
 Untuk Memenuhi Tugas MK OOP Universitas Baturaja
 ![image](https://user-images.githubusercontent.com/17256521/216539352-a1100a88-0714-4ddb-970b-8ca4a3168b4d.png)
 
@@ -19,3 +19,5 @@ Sebuah objek dari kelas Calculator dapat dibuat dengan memanggil '$calculator = 
 Kemudian, kode PHP memeriksa apakah request yang diterima adalah POST dan jika iya, maka memeriksa apakah input yang diterima adalah angka. Jika iya, maka objek $calculator akan dipanggil dan metodenya akan dipanggil sesuai dengan operator yang dipilih (tambah, kurang, kali, atau bagi).
 
 Hasil dari operasi yang dipilih akan ditampilkan dengan mencetak string "Hasil: " diikuti dengan nilai dari operasi tersebut.
+
+Untuk Hasilnya bisa dilihat di https://informatika-unbara.my.id
